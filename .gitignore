@@ -1,0 +1,8 @@
+Pipfile
+Pipfile.lock
+__pycache__/
+.ipynb_checkpoints
+.env
+.DS_Store
+.vscode/
+data/ 
